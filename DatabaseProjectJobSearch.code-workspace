@@ -1,0 +1,40 @@
+{
+	"folders": [
+		{
+			"name": "DatabaseProjectJobSearch",
+			"path": "C:/Users/spencgra/Documents/DatabaseProjectJobSearch"
+		},
+		{
+			"name": "GIT",
+			"path": "../../../../../../GIT"
+		},
+		{
+			"name": "8weekSQLChallenge",
+			"path": "."
+		}
+	],
+	"settings": {
+		"dataworkspace.excludedProjects": [
+			"Test.sqlproj",
+			"DatabaseProjectJobSearch/DatabaseProjectJobSearch.sqlproj"
+		],
+		"sqltools.connections": [
+			{
+				"mssqlOptions": {
+					"appName": "SQLTools",
+					"useUTC": true,
+					"encrypt": true,
+					"instanceName": "MSSQL2022"
+				},
+				"previewLimit": 50,
+				"server": "DevServer",
+				"port": 64921,
+				"driver": "MSSQL",
+				"name": "Test",
+				"username": "sa",
+				"password": "Co22ands",
+				"database": "JobSearch"
+			}
+		]
+	}
+}

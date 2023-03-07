@@ -1,0 +1,4 @@
+CREATE SCHEMA [CaseStudy7]
+    AUTHORIZATION [dbo];
+GO
+
