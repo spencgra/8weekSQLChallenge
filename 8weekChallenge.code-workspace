@@ -1,23 +1,11 @@
 {
 	"folders": [
 		{
-			"name": "DatabaseProjectJobSearch",
-			"path": "C:/Users/spencgra/Documents/DatabaseProjectJobSearch"
-		},
-		{
-			"name": "GIT",
-			"path": "../../../../../../GIT"
-		},
-		{
 			"name": "8weekSQLChallenge",
 			"path": "."
 		}
 	],
 	"settings": {
-		"dataworkspace.excludedProjects": [
-			"Test.sqlproj",
-			"DatabaseProjectJobSearch/DatabaseProjectJobSearch.sqlproj"
-		],
 		"sqltools.connections": [
 			{
 				"mssqlOptions": {
